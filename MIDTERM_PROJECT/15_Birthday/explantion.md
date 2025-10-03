@@ -1,0 +1,1 @@
+I created the `birthday` function by looping through the chocolate bar array and summing each segment of length `m`. If the sum of a segment equals `d`, I incremented a counter. Finally, I returned the total number of ways the chocolate can be divided to match the birthday criteria.

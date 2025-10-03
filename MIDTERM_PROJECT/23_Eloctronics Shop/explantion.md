@@ -1,0 +1,1 @@
+I created the `getMoneySpent` function by looping through all possible pairs of keyboards and drives, calculating their combined price. If the total was within the budget and higher than the current maximum, I updated the maximum. Finally, I returned the highest amount that can be spent without exceeding the budget, or -1 if nothing fits.

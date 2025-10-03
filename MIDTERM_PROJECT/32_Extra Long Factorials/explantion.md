@@ -1,0 +1,1 @@
+I created the `extraLongFactorials` function by using JavaScript’s `BigInt` to handle very large numbers. I initialized the result to 1n and multiplied it by each number from 1 up to `n`, then printed the final factorial as a string.

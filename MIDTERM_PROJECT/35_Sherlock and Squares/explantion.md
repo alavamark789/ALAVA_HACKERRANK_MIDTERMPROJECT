@@ -1,0 +1,1 @@
+I created the `squares` function by finding the smallest integer whose square is ≥ `a` and the largest integer whose square is ≤ `b`. The count of perfect squares between `a` and `b` is the difference between these two numbers plus one.

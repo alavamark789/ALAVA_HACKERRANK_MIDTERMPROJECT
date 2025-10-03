@@ -1,0 +1,1 @@
+I created the `bonAppetit` function by first calculating the total cost of the items Anna actually ate, excluding the item she didn’t eat. Then I divided the total by two to get her fair share. Finally, I compared it to what she was charged and printed either "Bon Appetit" or the amount she was overcharged.

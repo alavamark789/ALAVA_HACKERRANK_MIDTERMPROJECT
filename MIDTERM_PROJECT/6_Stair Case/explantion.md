@@ -1,0 +1,1 @@
+I created the `staircase` function by looping from 1 to `n` and, for each step, generating the correct number of spaces and hash symbols. I used `' '.repeat(n - i)` for spaces and `'#'.repeat(i)` for hashes, then combined them and printed each line to form a right-aligned staircase.

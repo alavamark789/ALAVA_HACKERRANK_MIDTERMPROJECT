@@ -1,0 +1,1 @@
+I created the `hurdleRace` function by finding the tallest hurdle. Then I checked if the character’s jump height `k` is enough to clear it. If not, I returned the difference as the number of magic doses needed; otherwise, I returned 0.

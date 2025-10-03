@@ -1,0 +1,1 @@
+I created the `libraryFine` function by comparing the return date (`d1`, `m1`, `y1`) with the due date (`d2`, `m2`, `y2`). If the book was returned on time or early, the fine is 0. If late but within the same month and year, the fine is 15 per day late; if late within the same year, 500 per month; and if returned in a later year, a fixed fine of 10,000.

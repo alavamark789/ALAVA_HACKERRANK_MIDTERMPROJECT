@@ -1,0 +1,1 @@
+I created the `gradingStudents` function by looping through each grade and checking if it is less than 38, in which case it stays the same. For grades 38 or higher, I rounded them up to the next multiple of 5 if the difference was less than 3; otherwise, I kept the original grade. Finally, I returned the updated list of grades.

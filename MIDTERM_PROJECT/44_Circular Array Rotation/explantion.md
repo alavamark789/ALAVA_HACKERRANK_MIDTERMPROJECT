@@ -1,0 +1,1 @@
+I created the `circularArrayRotation` function by first calculating the effective rotations using `k % n`. Then I created a new array where each element is placed at its rotated position `(i + k) % n`. Finally, I used the `queries` array to collect and return the values at the requested indices after rotation.

@@ -1,0 +1,1 @@
+I created the `viralAdvertising` function by simulating each day: starting with 5 people, I calculated how many liked the ad (half, rounded down), added that to the cumulative total, and then determined how many people the liked ads would be shared with the next day (liked × 3). Finally, I returned the cumulative likes after `n` days.

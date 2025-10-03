@@ -1,0 +1,1 @@
+I created the `repeatedString` function by first counting the number of 'a's in the original string. Then I multiplied that count by the number of full repeats that fit in `n` characters and added the 'a's from the remaining partial repeat. Finally, I returned the total number of 'a's.

@@ -1,0 +1,1 @@
+I created the `jumpingOnClouds` function by looping through the clouds and trying to jump two clouds whenever possible, otherwise jumping one. I counted each jump and returned the total number of jumps needed to reach the last cloud.

@@ -1,0 +1,1 @@
+I created the `cutTheSticks` function by repeatedly finding the smallest stick, subtracting its length from all sticks, and removing the zeros. In each iteration, I recorded the number of sticks before cutting. Finally, I returned the array of counts for each round.

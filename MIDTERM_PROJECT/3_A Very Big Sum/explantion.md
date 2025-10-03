@@ -1,0 +1,1 @@
+I created the `aVeryBigSum` function by initializing a variable `sum` to 0 and then looping through each element of the array `ar`, adding each number to `sum`. Finally, I returned `sum` as the total of all array elements.

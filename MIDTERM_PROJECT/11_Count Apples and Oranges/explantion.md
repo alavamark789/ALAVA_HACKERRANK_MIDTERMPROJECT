@@ -1,0 +1,1 @@
+I created the `countApplesAndOranges` function by looping through each apple and orange, calculating where they land by adding their distance to the tree’s position. Then I checked if the landing position falls within the house range and counted them. Finally, I printed the number of apples and oranges that landed on the house.

@@ -1,0 +1,1 @@
+I created the `climbingLeaderboard` function by first removing duplicate scores and sorting them in descending order. Then, for each of the player’s scores, I moved from the lowest unique score upward until finding the correct rank. Finally, I recorded the rank for each score and returned the list of ranks.

@@ -1,0 +1,1 @@
+I created the `beautifulDays` function by looping through each day from `i` to `j`, reversing its digits, and checking if the absolute difference between the day and its reverse is divisible by `k`. I counted each day that met this condition and returned the total. The `reverseNumber` helper function converts a number to a string, reverses it, and converts it back to a number.

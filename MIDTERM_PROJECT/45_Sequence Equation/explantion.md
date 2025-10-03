@@ -1,0 +1,1 @@
+I created the `permutationEquation` function by looping through each number from 1 to `n`. For each number `x`, I first found the position of `x` in the array, then found the position of that position, and added it to the result array. Finally, I returned the array of positions.

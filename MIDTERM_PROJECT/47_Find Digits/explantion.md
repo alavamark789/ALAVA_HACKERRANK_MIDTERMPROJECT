@@ -1,0 +1,1 @@
+I created the `findDigits` function by converting the number to a string and looping through each digit. For each non-zero digit, I checked if it divides the original number evenly and counted it. Finally, I returned the total count of such digits.

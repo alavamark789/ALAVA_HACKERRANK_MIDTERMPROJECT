@@ -1,0 +1,1 @@
+I created the `catAndMouse` function by calculating the distances of each cat to the mouse. Then I compared the distances: if Cat A is closer, I returned "Cat A"; if Cat B is closer, I returned "Cat B"; and if both are the same distance, I returned "Mouse C".

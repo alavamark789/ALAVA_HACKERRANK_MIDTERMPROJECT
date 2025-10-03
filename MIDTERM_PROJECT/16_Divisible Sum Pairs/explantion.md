@@ -1,0 +1,1 @@
+I created the `divisibleSumPairs` function by using two nested loops to check every unique pair of array elements. For each pair, I checked if their sum is divisible by `k`, and if so, I incremented a counter. Finally, I returned the total count of divisible pairs.

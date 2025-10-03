@@ -1,0 +1,1 @@
+I created the `breakingRecords` function by keeping track of the highest and lowest scores seen so far, along with counters for how many times each record was broken. I looped through the scores, updating the max or min and incrementing the corresponding counter whenever a new record was set. Finally, I returned an array with the counts of max and min record breaks.

@@ -1,0 +1,1 @@
+I created the `queensAttack` function by first defining all eight directions the queen can move. I stored the obstacles in a set for quick lookup. Then, for each direction, I moved step by step from the queen’s position, stopping if I hit an obstacle or the board edge, and counted each square the queen could attack. Finally, I returned the total count of attackable squares.

@@ -1,0 +1,1 @@
+I created the `getTotalX` function by looping through all numbers between the largest value in `a` and the smallest value in `b`. For each number, I checked that it is a multiple of all elements in `a` and that all elements in `b` are multiples of it. I counted the numbers that satisfy both conditions and returned the total count.

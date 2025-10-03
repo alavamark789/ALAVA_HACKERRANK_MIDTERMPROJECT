@@ -1,0 +1,1 @@
+I created the `appendAndDelete` function by first finding the length of the common prefix between `s` and `t`. Then I calculated the minimum number of operations needed to delete the remaining part of `s` and append the rest of `t`. Finally, I checked if the operations can be done within `k` moves, considering parity and extra operations, and returned "Yes" or "No".

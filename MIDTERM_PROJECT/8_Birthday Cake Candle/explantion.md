@@ -1,0 +1,1 @@
+I created the `birthdayCakeCandles` function by first finding the tallest candle in the array. Then I looped through the array again to count how many candles have that maximum height. Finally, I returned the count.

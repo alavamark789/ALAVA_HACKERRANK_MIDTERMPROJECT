@@ -1,0 +1,1 @@
+I created the `diagonalDifference` function by initializing two variables for the primary and secondary diagonal sums. Then I looped through the array, adding the elements from the top-left to bottom-right for the primary diagonal, and from the top-right to bottom-left for the secondary diagonal. Finally, I returned the absolute difference between the two sums.

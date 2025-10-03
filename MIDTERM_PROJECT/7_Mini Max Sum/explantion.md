@@ -1,0 +1,1 @@
+I created the `miniMaxSum` function by first sorting the array in ascending order. Then I calculated the minimum sum by adding the first four numbers and the maximum sum by adding the last four numbers. Finally, I printed both sums separated by a space.

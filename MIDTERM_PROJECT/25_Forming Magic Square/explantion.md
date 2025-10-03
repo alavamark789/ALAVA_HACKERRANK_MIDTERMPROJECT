@@ -1,0 +1,1 @@
+I created the `formingMagicSquare` function by first listing all 8 possible 3x3 magic squares. Then, for each magic square, I calculated the cost to convert the input square by summing the absolute differences of corresponding elements. Finally, I returned the minimum cost among all magic squares.

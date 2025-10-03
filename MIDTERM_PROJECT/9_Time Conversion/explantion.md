@@ -1,0 +1,1 @@
+I created the `timeConversion` function by first extracting the "AM" or "PM" period and the hour part from the input string. Then I adjusted the hours: for "AM", 12 becomes 00; for "PM", hours less than 12 are increased by 12. Finally, I combined the corrected hours with the minutes and seconds to return the 24-hour format time.

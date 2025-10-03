@@ -1,0 +1,1 @@
+I created the `sockMerchant` function by first counting how many socks there are of each color using an object. Then I calculated the number of pairs for each color by dividing the count by 2 and taking the floor. Finally, I summed all the pairs and returned the total.

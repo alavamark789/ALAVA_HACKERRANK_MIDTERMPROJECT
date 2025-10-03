@@ -1,0 +1,1 @@
+I created the misereNim function by first checking if all piles have one stone, since that’s a special case in Misère Nim. Then I calculated the XOR of all pile sizes to determine the winner if all ones, the winner depends on whether the number of piles is even or odd; otherwise, a zero XOR means the second player wins, and a nonzero XOR means the first player wins.

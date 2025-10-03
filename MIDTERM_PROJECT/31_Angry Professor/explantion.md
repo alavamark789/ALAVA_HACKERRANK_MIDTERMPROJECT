@@ -1,0 +1,1 @@
+I created the `angryProfessor` function by counting how many students arrived on time (arrival time ≤ 0). If the number of on-time students is at least `k`, the class is not canceled, so I returned "NO"; otherwise, I returned "YES".

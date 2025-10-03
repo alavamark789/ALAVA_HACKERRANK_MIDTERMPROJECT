@@ -1,0 +1,1 @@
+I created the `designerPdfViewer` function by looping through each letter of the word, finding its corresponding height from the array `h`, and keeping track of the tallest letter. Finally, I multiplied the tallest height by the word’s length to get the highlighted area.

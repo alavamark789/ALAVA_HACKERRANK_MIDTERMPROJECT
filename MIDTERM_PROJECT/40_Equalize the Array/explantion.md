@@ -1,0 +1,1 @@
+I created the `equalizeArray` function by first counting the frequency of each number in the array. Then I found the number with the highest frequency and calculated how many elements need to be removed by subtracting that frequency from the total array length.

@@ -1,0 +1,1 @@
+I created the simpleArraySum function to calculate the total of all numbers in an array. I start with a sum of 0, then go through each number in the array and add it to the sum. At the end, I return the total sum.

@@ -1,0 +1,1 @@
+I created the `plusMinus` function by first initializing counters for positive, negative, and zero values. Then I looped through the array, incrementing the appropriate counter based on each element. Finally, I calculated the fraction of each type relative to the array length and printed them with six decimal places.

@@ -1,0 +1,1 @@
+I created the `utopianTree` function by starting the tree’s height at 1 and looping through each growth cycle. On odd cycles, I doubled the height for spring growth, and on even cycles, I added 1 for summer growth. Finally, I returned the tree’s height after all cycles.

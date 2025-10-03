@@ -1,0 +1,1 @@
+I created the `migratoryBirds` function by first counting the occurrences of each bird type using an object. Then I looped through the counts to find the bird with the highest frequency, using the smallest ID in case of a tie. Finally, I returned the ID of the most frequently sighted bird.

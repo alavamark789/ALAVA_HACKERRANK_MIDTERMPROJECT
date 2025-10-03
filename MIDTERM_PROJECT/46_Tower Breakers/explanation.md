@@ -1,0 +1,1 @@
+I created the `towerBreakers` function by considering the game rules: if all towers have height 1, the second player wins. If the number of towers is even, the second player can mirror moves and win. Otherwise, the first player wins.

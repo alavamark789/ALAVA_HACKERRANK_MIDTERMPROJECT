@@ -1,0 +1,1 @@
+I created the `pickingNumbers` function by looping through each number in the array and counting how many numbers are equal to it or exactly one greater. I tracked the largest such count found and returned it as the length of the longest subarray meeting the criteria.

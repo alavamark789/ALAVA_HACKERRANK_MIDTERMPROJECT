@@ -1,0 +1,1 @@
+I created the `dayOfProgrammer` function by handling three cases: the year 1918 (the transition year in Russia), leap years, and non-leap years. For 1918, the date is "26.09.1918". For leap years, I returned "12.09.year", and for non-leap years, "13.09.year".

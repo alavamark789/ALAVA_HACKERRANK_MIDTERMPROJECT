@@ -1,0 +1,1 @@
+I created the `countingValleys` function by tracking the hiker’s current sea level as they go up ('U') or down ('D'). Each time the hiker comes up to sea level from below, I counted it as a valley. Finally, I returned the total number of valleys traversed.

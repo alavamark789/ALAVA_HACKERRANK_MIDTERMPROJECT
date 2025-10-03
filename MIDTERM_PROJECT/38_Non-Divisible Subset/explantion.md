@@ -1,0 +1,1 @@
+I created the `nonDivisibleSubset` function by first counting how many numbers have each remainder when divided by `k`. Then, for each remainder pair `i` and `k-i`, I included the larger group to ensure no two numbers sum to a multiple of `k`. I also handled the special cases for remainder 0 and when `i` equals `k-i`. Finally, I returned the size of the largest possible subset.

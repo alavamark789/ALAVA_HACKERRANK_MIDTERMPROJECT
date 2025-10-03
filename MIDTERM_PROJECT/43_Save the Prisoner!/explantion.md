@@ -1,0 +1,1 @@
+I created the `saveThePrisoner` function by calculating the position of the last candy using modular arithmetic: `(s - 1 + m) % n`. If the result is 0, it means the last candy lands on the last prisoner, so I returned `n`; otherwise, I returned the calculated position.

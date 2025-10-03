@@ -1,0 +1,1 @@
+I created the `flippingBits` function by first calculating a 32-bit number with all bits set to 1 (`2^32 - 1`). Then I subtracted the input number `n` from it to flip all bits, and returned the result.

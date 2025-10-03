@@ -1,0 +1,1 @@
+I created the `pageCount` function by calculating the number of pages to turn from the front (`p / 2`) and from the back (`n / 2 - p / 2`). Then I returned the smaller of the two values, which gives the minimum number of page turns needed.
